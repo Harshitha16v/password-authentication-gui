@@ -66,7 +66,6 @@ This repository contains assignments completed during my AI with Cloud internshi
    - Explained the relationship between study time and academic performance
    - Saved dataset to CSV for future ML model training
 
-   
   10. KNN Recommendation (07/03/2026)
     - Implemented a simple K-Nearest Neighbors (KNN) based recommendation concept
     - Demonstrated how platforms like Netflix recommend movies using similarity
@@ -74,32 +73,28 @@ This repository contains assignments completed during my AI with Cloud internshi
     - Showed how nearest neighbors influence recommendations
     - Provided a basic real-world explanation of collaborative filtering
 
-
-   11. House Price Predictor (09/03/2026)
+  11. House Price Predictor (09/03/2026)
      - Built a Linear Regression model to predict house prices
      - Used features like house size and number of bedrooms
      - Allowed users to enter new input values for prediction
      - Demonstrated how machine learning models estimate continuous values
      - Explained the relationship between input features and predicted price
 
-
-    12. Spam Classifier Thinking (10/03/2026)
+  12. Spam Classifier Thinking (10/03/2026)
       - Designed the concept of an email spam detection system
       - Identified key features such as keywords, sender reputation, and message length
       - Explained how machine learning models classify spam vs non-spam messages
       - Discussed possible classification mistakes like false positives and false negatives 
       - Demonstrated how data and features influence spam detection accuracy
 
-
-    13. Customer Segmentation (11/03/2026)
+  13. Customer Segmentation (11/03/2026)
       - Implemented K-Means Clustering for customer segmentation
       - Used features like age, income, and spending score
       - Divided customers into different groups based on behavior patterns
       - Allowed user input to classify new customers into segments
       - Demonstrated how businesses analyze customer purchasing behavior
 
-
-   14. Decision Tree Prediction (12/03/2026)
+  14. Decision Tree Prediction (12/03/2026)
        - Implemented a Decision Tree model for predicting outdoor activity
        - Used simple conditions such as weather and temperature
        - Demonstrated how decision trees split data into decision rules
